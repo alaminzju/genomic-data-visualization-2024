@@ -1,0 +1,1 @@
+This course is very helpful in learning about genomic data visualization. In particular, you can learn about Spatial Single-cell data analysis along with various statistical methods for genomic data analysis. 
